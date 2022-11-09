@@ -10,7 +10,6 @@ In this case, I tried to use a general brute-force method in which the username 
 ## Usage
 ```
 python3 /dist/base64_bruteforcy.py [URL] [username.txt] [password.txt]
-
 ```
 
 Dependencies:
@@ -20,7 +19,6 @@ Dependencies:
 
 ```
 pip install -r requirements.txt
-
 ```
 
 ![Title](/Images/flow.jpeg)
