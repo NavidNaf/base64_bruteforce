@@ -1,2 +1,2 @@
 art==5.7
-requests==2.27.1
+requests==2.32.0
